@@ -33,7 +33,7 @@ An elegant AI chatbot application built with Flutter using Riverpod state manage
 
 ### API
 
-- OpenRouter API
+- Nvidia AI MOdels  API
 
 ### Markdown Rendering
 
